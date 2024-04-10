@@ -1,0 +1,3 @@
+Server;x86_64;base;CentOS-7 - Base
+Server;x86_64;updates;CentOS-7 - Updates
+Server;x86_64;extras;CentOS-7 - Extras

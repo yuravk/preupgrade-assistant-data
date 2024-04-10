@@ -1,0 +1,3 @@
+libaudiofile.so.0:audiofile|audiofile:libaudiofile.so.1
+libgladeui-1.so.9:glade3-libgladeui|glade3-libgladeui:libgladeui-1.so.11
+libgxim.so.2:libgxim|libgxim:libgxim.so.4

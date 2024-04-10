@@ -1,0 +1,16 @@
+libTix.so:tix|tix:libTix.so
+libdsdb-module-samba4.so:samba4-test|samba-test-libs:libdsdb-module-samba4.so
+libgiofam.so:glib2|glib2-fam:libgiofam.so
+libgladegnome.so:glade3-libgladeui|glade3-libgladeui:libgladegnome.so
+libgstpython.so:gstreamer-python|gstreamer-python:libgstpython.so
+libgv_perl.so:graphviz-perl|graphviz-perl:libgv_perl.so
+libkdeinit4_cervisia.so:kdesdk-devel|kdesdk-cervisia:libkdeinit4_cervisia.so
+libkdeinit4_cervisia.so:kdesdk|kdesdk-cervisia:libkdeinit4_cervisia.so
+libkdeinit4_cvsaskpass.so:kdesdk-devel|kdesdk-cervisia:libkdeinit4_cvsaskpass.so
+libkdeinit4_cvsaskpass.so:kdesdk|kdesdk-cervisia:libkdeinit4_cvsaskpass.so
+libkdeinit4_cvsservice.so:kdesdk-devel|kdesdk-cervisia:libkdeinit4_cvsservice.so
+libkdeinit4_cvsservice.so:kdesdk|kdesdk-cervisia:libkdeinit4_cvsservice.so
+libkdeinit4_kate.so:kdesdk-devel|kate:libkdeinit4_kate.so
+libkdeinit4_kate.so:kdesdk|kate:libkdeinit4_kate.so
+libsmb.so:gnome-vfs2-smb|gnome-vfs2-smb:libsmb.so
+libvnc.so:vinagre|tigervnc-server-module:libvnc.so

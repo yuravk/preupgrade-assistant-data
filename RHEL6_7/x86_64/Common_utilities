@@ -1,0 +1,602 @@
+/usr/bin/mcmfmt:mc removed |removed by upstream
+/usr/bin/theora_player.bin:theora-tools removed
+/usr/bin/xdm:xorg-x11-xdm removed
+/usr/bin/xdmshell:xorg-x11-xdm removed
+/usr/sbin/open_init_pty:policycoreutils removed |not needed anymore due to systemd
+/usr/sbin/run_init:policycoreutils removed |not needed anymore due to systemd
+/usr/bin/ntdbbackup:samba4-client removed
+/usr/bin/ntdbdump:samba4-client removed
+/usr/bin/ntdbrestore:samba4-client removed
+/usr/bin/ntdbtool:samba4-client removed
+/usr/bin/smbta-util:samba4-client removed
+/sbin/ibod:isdn4k-utils removed
+/usr/sbin/ibod:isdn4k-utils removed
+/usr/bin/sysconfig-lm_sensors-convert:lm_sensors removed |used for conversion scripts from lm_sensors v2 -> v3 - not needed now
+/usr/bin/ck-history:ConsoleKit removed
+/usr/bin/ck-launch-session:ConsoleKit removed
+/usr/bin/ck-list-sessions:ConsoleKit removed
+/usr/sbin/ck-log-system-restart:ConsoleKit removed
+/usr/sbin/ck-log-system-start:ConsoleKit removed
+/usr/sbin/ck-log-system-stop:ConsoleKit removed
+/usr/sbin/console-kit-daemon:ConsoleKit removed
+/usr/bin/cpuinfo2cpuid:cpuid removed
+/sbin/insmod.static:module-init-tools removed |not needed in kmod
+/sbin/umount.hal:hal removed
+/usr/bin/hal-device:hal removed
+/usr/bin/hal-disable-polling:hal removed
+/usr/bin/hal-find-by-capability:hal removed
+/usr/bin/hal-find-by-property:hal removed
+/usr/bin/hal-get-property:hal removed
+/usr/bin/hal-is-caller-locked-out:hal removed
+/usr/bin/hal-lock:hal removed
+/usr/bin/hal-set-property:hal removed
+/usr/bin/hal-setup-keymap:hal removed
+/usr/bin/lshal:hal removed
+/usr/sbin/hald:hal removed
+/usr/bin/mkxauth:xorg-x11-xauth removed
+/sbin/btrfs-restore:btrfs-progs removed |see "/sbin/btrfs restore --help"
+/sbin/btrfs-show:btrfs-progs removed |see "/sbin/btrfs filesystem show --help"
+/sbin/btrfs-vol:btrfs-progs removed |see "/sbin/btrfs subvolume --help"
+/sbin/btrfsctl:btrfs-progs removed |see btrfs manpage
+/usr/bin/rebuild-gcj-db:java-1.5.0-gcj removed
+/usr/sbin/cpuspeed:cpuspeed removed
+/usr/sbin/adsl-setup:rp-pppoe removed
+/usr/bin/rhgb-client:plymouth removed |use plymouth
+/usr/bin/ck-xinit-session:xorg-x11-xinit removed
+/usr/sbin/hv_vss_daemon:hypervvssd removed
+/usr/bin/bdftops:ghostscript removed
+/usr/bin/dumphint:ghostscript removed
+/usr/bin/font2c:ghostscript removed
+/usr/bin/pdfopt:ghostscript removed
+/usr/bin/pv.sh:ghostscript removed
+/usr/bin/wftopfa:ghostscript removed
+/usr/sbin/httpd.event:httpd removed
+/usr/sbin/httpd.worker:httpd removed
+/usr/bin/dprofpp:perl removed |you can install Devel-DProf from CPAN
+/usr/bin/perl5.10.1:perl removed |newer version
+/usr/bin/man2html:man removed |man -H, see more "man man" and "man groff"
+/usr/sbin/makewhatis:man removed
+/sbin/kdump:kexec-tools removed
+/usr/bin/udffsck:udftools removed
+/sbin/vconfig:vconfig removed |see man ip from iproute
+/sbin/microcode_ctl:microcode_ctl removed
+/usr/bin/update-gdk-pixbuf-loaders:gdk-pixbuf2 removed
+/usr/bin/signtool:nss-tools removed
+/usr/bin/.ssh.hmac:openssh-clients removed
+/usr/bin/gpgkey2ssh:gnupg2 removed
+/usr/bin/gdbtui:gdb removed
+/sbin/mingetty:mingetty removed |obsoleted by agetty:util-linux
+/sbin/grub:grub removed
+/sbin/grub-crypt:grub removed
+/sbin/grub-install:grub removed
+/sbin/grub-md5-crypt:grub removed
+/sbin/grub-terminfo:grub removed
+/usr/bin/mbchk:grub removed
+/sbin/scsi_id:udev removed
+/sbin/start_udev:udev removed
+/usr/bin/sperl5.10.1:perl-suidperl removed |only symlink
+/usr/bin/suidperl:perl-suidperl removed |OS support SUID good enough now
+/usr/bin/cpufreq-bench_plot.sh:cpupowerutils removed
+/usr/sbin/cpufreq-bench:cpupowerutils removed
+/sbin/fsck.ext4dev:e2fsprogs removed |not needed
+/sbin/mkfs.ext4dev:e2fsprogs removed |not needed
+/usr/sbin/togglesebool:libselinux-utils removed
+/usr/sbin/lcp_crtpconf:tboot removed
+/usr/sbin/lcp_crtpol:tboot removed
+/usr/sbin/lcp_crtpol2:tboot removed
+/usr/sbin/lcp_crtpolelt:tboot removed
+/usr/sbin/lcp_crtpollist:tboot removed
+/usr/sbin/lcp_mlehash:tboot removed
+/usr/bin/berkeley_db_svc:db4-utils removed
+/usr/bin/db_codegen:db4-utils removed
+/usr/sbin/cimuser:tog-pegasus removed
+/sbin/readahead:readahead removed
+/sbin/readahead-collector:readahead removed
+/usr/sbin/lslk:lslk removed |use lslocks:util-linux
+/usr/bin/assistant_adp:qt-x11 removed
+/sbin/lvmchange:lvm2 removed
+/usr/sbin/hv_kvp_daemon:hypervkvpd removed
+/sbin/mount.tmpfs:util-linux-ng removed |see man 8 mount
+/usr/bin/ddate:util-linux-ng removed |useless
+/usr/bin/floppy:util-linux-ng removed |obsolete
+/usr/sbin/tunelp:util-linux-ng removed |obsolete
+/sbin/initctl:upstart removed |functionality implemented in systemd
+/sbin/reload:upstart removed |functionality implemented in systemd
+/sbin/restart:upstart removed |functionality implemented in systemd
+/sbin/start:upstart removed |functionality implemented in systemd
+/sbin/status:upstart removed |functionality implemented in systemd
+/sbin/stop:upstart removed |functionality implemented in systemd
+/sbin/nfs_cache_getent:nfs-utils removed |not needed anymore by kernel
+/usr/sbin/rpc.svcgssd:nfs-utils removed
+/usr/bin/seekwatcher:seekwatcher removed |use iowatcher
+/usr/bin/.fipscheck.hmac:fipscheck removed
+/usr/bin/lwp-rget:perl-libwww-perl removed |not maintained anymore
+/usr/bin/update-gio-modules:glib2 removed
+/usr/sbin/hv_fcopy_daemon:hypervfcopyd removed
+/usr/bin/abrt-cli-root:abrt-tui removed
+/usr/bin/cpufreq-aperf:cpufrequtils removed
+/usr/bin/cpufreq-info:cpufrequtils removed
+/usr/bin/cpufreq-set:cpufrequtils removed
+/usr/bin/btparser:btparser removed |see man satyr:satyr
+/usr/bin/protoize:gcc removed
+/usr/bin/unprotoize:gcc removed
+/usr/sbin/tzdata-update:glibc-common removed
+/usr/bin/ddcmon:i2c-tools removed
+/usr/bin/decode-edid:i2c-tools removed
+/usr/bin/abrt-dedup-client:abrt-addon-ccpp removed |the server side no longer exists
+/usr/bin/smbta-util:samba-client removed
+/usr/bin/volname:eject removed |use blkid instead
+/usr/sbin/krb5-send-pr:krb5-workstation removed
+/usr/bin/hca_self_test.ofed:mstflint removed
+/usr/bin/ib_write_bw_postlist:perftest removed |feature contained in all BW tests
+/usr/bin/rdma_bw:perftest removed |deprecated
+/usr/bin/rdma_lat:perftest removed |deprecated
+/usr/bin/run_perftest_loopback:perftest removed
+/usr/sbin/ypserv_test:yp-tools removed |low usage
+/usr/bin/ppmtompeg:netpbm-progs removed |removed due to patent issue
+/usr/bin/insights-client-run:insights-client removed
+/usr/sbin/.sshd.hmac:openssh-server removed
+/sbin/fstab-decode:initscripts removed
+/sbin/getkey:initscripts removed
+/sbin/securetty:initscripts removed
+/sbin/setsysfont:initscripts removed
+/usr/bin/system-config-lvm:system-config-lvm removed
+/usr/sbin/system-config-lvm:system-config-lvm removed
+/usr/bin/exchange-connector-setup-2.32:evolution-exchange removed
+/usr/bin/odvips:texlive-dvips removed
+/usr/bin/create-branching-keyboard:gok removed
+/usr/bin/gok:gok removed
+/usr/bin/nm-tool:NetworkManager removed |use nmcli instead
+/usr/bin/gpk-install-catalog:gnome-packagekit removed
+/usr/bin/gpk-install-local-file:gnome-packagekit removed
+/usr/bin/gpk-install-mime-type:gnome-packagekit removed
+/usr/bin/gpk-install-package-name:gnome-packagekit removed
+/usr/bin/gpk-install-provide-file:gnome-packagekit removed
+/usr/bin/gpk-repo:gnome-packagekit removed
+/usr/bin/gpk-update-icon:gnome-packagekit removed
+/usr/bin/im:python-twisted-words removed
+/usr/bin/irkick:kdeutils removed
+/usr/bin/kdessh:kdeutils removed
+/usr/bin/kfloppy:kdeutils removed
+/usr/bin/superkaramba:kdeutils removed
+/usr/bin/aleph:texlive removed
+/usr/bin/amstex:texlive removed
+/usr/bin/bibtex8:texlive removed
+/usr/bin/csplain:texlive removed
+/usr/bin/ctangle:texlive removed
+/usr/bin/ctie:texlive removed
+/usr/bin/cweave:texlive removed
+/usr/bin/dmp:texlive removed
+/usr/bin/eplain:texlive removed
+/usr/bin/extconv:texlive removed
+/usr/bin/fontinst:texlive removed
+/usr/bin/lambda:texlive removed
+/usr/bin/lamed:texlive removed
+/usr/bin/mag:texlive removed
+/usr/bin/makempx:texlive removed
+/usr/bin/mltex:texlive removed
+/usr/bin/mpto:texlive removed
+/usr/bin/musixflx:texlive removed
+/usr/bin/newer:texlive removed
+/usr/bin/ofm2opl:texlive removed
+/usr/bin/omega:texlive removed
+/usr/bin/omfonts:texlive removed
+/usr/bin/opl2ofm:texlive removed
+/usr/bin/otangle:texlive removed
+/usr/bin/otp2ocp:texlive removed
+/usr/bin/outocp:texlive removed
+/usr/bin/ovf2ovp:texlive removed
+/usr/bin/ovp2ovf:texlive removed
+/usr/bin/patgen:texlive removed
+/usr/bin/pdfcsplain:texlive removed
+/usr/bin/pdftosrc:texlive removed
+/usr/bin/pfb2pfa:texlive removed
+/usr/bin/physe:texlive removed
+/usr/bin/phyzzx:texlive removed
+/usr/bin/pk2bm:texlive removed
+/usr/bin/pooltype:texlive removed
+/usr/bin/ps2frag:texlive removed
+/usr/bin/ps2pk:texlive removed
+/usr/bin/rubibtex:texlive removed
+/usr/bin/rumakeindex:texlive removed
+/usr/bin/tangle:texlive removed
+/usr/bin/texsis:texlive removed
+/usr/bin/tie:texlive removed
+/usr/bin/weave:texlive removed
+/usr/bin/festival-synthesis-driver:gnome-speech removed
+/usr/bin/test-speech:gnome-speech removed
+/usr/bin/rdesktop:rdesktop removed |partial replaced by xfreerdp
+/usr/bin/gnome-window-properties:control-center-extra removed
+/usr/bin/gnome-panel-screenshot:gnome-utils removed
+/usr/bin/gnome-search-tool:gnome-utils removed
+/sbin/umount.udisks:udisks removed
+/usr/bin/udisks:udisks removed
+/usr/bin/kappfinder:kdebase removed
+/usr/bin/packagekit-bugreport.sh:PackageKit removed
+/usr/bin/pkgenpack:PackageKit removed
+/usr/sbin/packagekitd:PackageKit removed
+/usr/bin/hal-probe-vmmouse:xorg-x11-drv-vmmouse removed
+/usr/sbin/.ipsec.hmac:openswan removed
+/usr/bin/kppp:kdenetwork removed
+/usr/bin/kppplogview:kdenetwork removed
+/usr/sbin/kppp:kdenetwork removed
+/usr/bin/devkit-power:DeviceKit-power removed
+/usr/bin/desktop-effects:desktop-effects removed
+/usr/bin/cslatex:texlive-latex removed
+/usr/bin/lacheck:texlive-latex removed
+/usr/bin/mllatex:texlive-latex removed
+/usr/bin/pdfcslatex:texlive-latex removed
+/usr/bin/pslatex:texlive-latex removed
+/usr/sbin/gptsync:anaconda removed |boot mode that requires gptsync is not supported
+/usr/sbin/showpart:anaconda removed |was built by gptsync
+/usr/bin/indexcon:setools-console removed |not supported
+/usr/bin/replcon:setools-console removed |not supported
+/usr/bin/seaudit-report:setools-console removed |not supported
+/usr/bin/magnifier:gnome-mag removed
+/usr/sbin/.ipsec.hmac:libreswan removed
+/usr/bin/abrt-gui:abrt-gui removed |gnome-abrt provides gui instead
+/usr/bin/abrt-gui-root:abrt-gui removed
+/usr/bin/plutil:libplist removed
+/usr/bin/plutil-1.2:libplist removed
+/usr/bin/gnome-about-me:control-center removed
+/usr/bin/gnome-appearance-properties:control-center removed
+/usr/bin/gnome-at-properties:control-center removed
+/usr/bin/gnome-at-visual:control-center removed
+/usr/bin/gnome-default-applications-properties:control-center removed
+/usr/bin/gnome-display-properties:control-center removed
+/usr/bin/gnome-keybinding-properties:control-center removed
+/usr/bin/gnome-keyboard-properties:control-center removed
+/usr/bin/gnome-mouse-properties:control-center removed
+/usr/bin/gnome-network-properties:control-center removed
+/usr/bin/gnome-typing-monitor:control-center removed
+/usr/bin/gnome-wacom-properties:control-center removed
+/usr/bin/gnome-session-save:gnome-session removed
+/usr/bin/gnome-wm:gnome-session removed
+/usr/bin/imsettings-applet:imsettings removed
+/usr/bin/imsettings-restart:imsettings removed
+/usr/bin/imsettings-start:imsettings removed
+/usr/bin/imsettings-stop:imsettings removed
+/usr/bin/anthy-agent:anthy removed
+/usr/bin/anthy-dic-tool:anthy removed
+/usr/bin/anthy-morphological-analyzer:anthy removed
+/usr/sbin/pk-device-rebind:PackageKit-device-rebind removed
+/usr/bin/my-default-printer:system-config-printer removed
+/usr/bin/krb5-auth-dialog:krb5-auth-dialog removed
+/usr/bin/krb5-auth-dialog-preferences:krb5-auth-dialog removed
+/usr/bin/bluetooth-applet:gnome-bluetooth removed
+/usr/bin/bluetooth-properties:gnome-bluetooth removed
+/usr/bin/bluetooth-wizard:gnome-bluetooth removed
+/usr/bin/dfutool:bluez removed
+/usr/sbin/bluetoothd:bluez removed
+/usr/bin/cpufreq-selector:gnome-applets removed
+/usr/bin/invest-chart:gnome-applets removed
+/usr/bin/mktap:python-twisted-core removed |removed by upstream - broken in trunk
+/usr/bin/vino-passwd:vino removed |removed in favor of using g-c-c to set password
+/usr/bin/vino-preferences:vino removed |see gsettings from glib2 and /usr/libexec/vino-server
+/usr/sbin/gdm-binary:gdm removed
+/usr/bin/gimp-remote:gimp removed |subsumed into /usr/bin/gimp
+/usr/bin/gimp-remote-2.6:gimp removed |subsumed into /usr/bin/gimp
+/usr/bin/RSA_SecurID_getpasswd:ccid removed |see pcsc-lite-ccid
+/usr/sbin/Kobil_mIDentity_switch:ccid removed |see pcsc-lite-ccid
+/usr/bin/rpmargs:rpmdevtools removed |fakeroot is removed
+/usr/bin/rpmelfsym:rpmdevtools removed |fakeroot is removed
+/usr/bin/rpmfile:rpmdevtools removed |fakeroot is removed
+/usr/bin/rpmpeek:rpmdevtools removed |fakeroot is removed
+/usr/bin/rpmsodiff:rpmdevtools removed |fakeroot is removed
+/usr/bin/rpmsoname:rpmdevtools removed |fakeroot is removed
+/usr/sbin/bacula:bacula-common removed |not needed anymore
+/usr/bin/totem-audio-preview:totem removed
+/usr/bin/totem-video-indexer:totem removed
+/usr/bin/krandrtray:kdebase-workspace removed
+/usr/bin/kwin_killer_helper:kdebase-workspace removed
+/usr/bin/kwin_rules_dialog:kdebase-workspace removed
+/usr/bin/kxkb:kdebase-workspace removed
+/usr/bin/plasmaengineexplorer:kdebase-workspace removed
+/usr/bin/plasmawallpaperviewer:kdebase-workspace removed
+/usr/bin/plasmoidviewer:kdebase-workspace removed
+/usr/bin/safestartkde:kdebase-workspace removed
+/usr/bin/setscheduler:kdebase-workspace removed
+/usr/bin/solid-bluetooth:kdebase-workspace removed
+/usr/bin/solid-network:kdebase-workspace removed
+/usr/bin/solid-powermanagement:kdebase-workspace removed
+/usr/bin/kmousetool:kdeaccessibility removed
+/usr/bin/kmouth:kdeaccessibility removed
+/usr/bin/kttsd:kdeaccessibility removed
+/usr/bin/kttsmgr:kdeaccessibility removed
+/usr/sbin/tethereal:wireshark removed
+/sbin/cciss_id:device-mapper-multipath removed
+/usr/bin/gcalctool:gcalctool removed |use gnome-calculator instead
+/usr/bin/openoffice.org-1.9:libreoffice-core removed
+/usr/bin/openoffice.org-2.0:libreoffice-core removed
+/usr/bin/system-setup-keyboard:system-setup-keyboard removed |use localectl
+/usr/bin/egroupwarewizard:kdepim removed
+/usr/bin/groupwarewizard:kdepim removed
+/usr/bin/groupwisewizard:kdepim removed
+/usr/bin/kabcdistlistupdater:kdepim removed
+/usr/bin/kjots:kdepim removed
+/usr/bin/kmail:kdepim removed
+/usr/bin/kmail_antivir.sh:kdepim removed
+/usr/bin/kmail_clamav.sh:kdepim removed
+/usr/bin/kmail_fprot.sh:kdepim removed
+/usr/bin/kmail_sav.sh:kdepim removed
+/usr/bin/kmailcvt:kdepim removed
+/usr/bin/knode:kdepim removed
+/usr/bin/kolabwizard:kdepim removed
+/usr/bin/kontact:kdepim removed
+/usr/bin/kpilot:kdepim removed
+/usr/bin/kpilotDaemon:kdepim removed
+/usr/bin/ksendemail:kdepim removed
+/usr/bin/scalixadmin:kdepim removed
+/usr/bin/scalixwizard:kdepim removed
+/usr/bin/sloxwizard:kdepim removed
+/usr/bin/a2ping:texlive-utils removed
+/usr/bin/e2pall:texlive-utils removed
+/usr/bin/pdfcrop:texlive-utils removed
+/usr/bin/ps4pdf:texlive-utils removed
+/usr/sbin/update-reader.conf:pcsc-lite removed |unneeded anymore
+/usr/bin/b2m:emacs-common removed |removed
+/usr/bin/rcs-checkin:emacs-common removed |removed by upstream
+/usr/bin/dwell-click-applet:mousetweaks removed
+/usr/bin/pointer-capture-applet:mousetweaks removed
+/usr/bin/akonadi_distlist_resource:kdepim-runtime removed
+/usr/bin/akonadi_ical_resource:kdepim-runtime removed
+/usr/bin/akonadi_knut_resource:kdepim-runtime removed
+/usr/bin/akonadi_kolabproxy_resource:kdepim-runtime removed
+/usr/bin/akonadi_maildir_resource:kdepim-runtime removed
+/usr/bin/akonadi_strigi_feeder:kdepim-runtime removed
+/usr/bin/akonadi_vcard_resource:kdepim-runtime removed
+/usr/bin/akonadiconsole:kdepim-runtime removed
+/usr/bin/perltex:texlive-texmf-latex removed
+/usr/bin/gnome-screensaver:gnome-screensaver removed
+/usr/bin/gnome-screensaver-command:gnome-screensaver removed
+/usr/bin/gnome-screensaver-preferences:gnome-screensaver removed
+/usr/bin/ebbx:dvipdfmx removed
+/usr/bin/ctxtools:texlive-context removed
+/usr/bin/exatools:texlive-context removed
+/usr/bin/luatools:texlive-context removed
+/usr/bin/makempy:texlive-context removed
+/usr/bin/mpstools:texlive-context removed
+/usr/bin/mtxtools:texlive-context removed
+/usr/bin/pdftools:texlive-context removed
+/usr/bin/pstopdf:texlive-context removed
+/usr/bin/rlxtools:texlive-context removed
+/usr/bin/runtools:texlive-context removed
+/usr/bin/texexec:texlive-context removed
+/usr/bin/texfont:texlive-context removed
+/usr/bin/texmfstart:texlive-context removed
+/usr/bin/textools:texlive-context removed
+/usr/bin/texutil:texlive-context removed
+/usr/bin/tmftools:texlive-context removed
+/usr/bin/xmltools:texlive-context removed
+/usr/bin/obex_test:openobex-apps removed |problems with multiple stack overflows and only for testing
+/usr/bin/sediffx:setools-gui removed |not supported
+/usr/bin/genctd:icu removed
+/usr/sbin/genuca:icu removed
+/usr/bin/audiofile-config:audiofile-devel removed
+/usr/bin/dvdread-config:libdvdread-devel removed
+/usr/bin/tex4ht-ht:tetex-tex4ht removed
+/usr/bin/pmatop:pcp-system-tools removed
+/usr/bin/xdmx:xorg-x11-server-Xdmx removed
+/usr/bin/ocamlplugininfo:ocaml removed
+/usr/bin/rst2newlatex:python-docutils removed |unused, removed by upstream
+/usr/bin/intel_disable_clock_gating:intel-gpu-tools removed
+/usr/bin/intel_nc_read:intel-gpu-tools removed
+/usr/bin/intel_nc_write:intel-gpu-tools removed
+/usr/bin/intel_punit_read:intel-gpu-tools removed
+/usr/bin/intel_punit_write:intel-gpu-tools removed
+/usr/bin/radconf2xml:freeradius-utils removed
+/usr/bin/rlm_dbm_cat:freeradius-utils removed
+/usr/bin/rlm_dbm_parser:freeradius-utils removed
+/usr/bin/expectk:expectk removed |use tlcsh:Tk
+/usr/bin/mapitest:openchange-client removed
+/usr/bin/luceneindexer:strigi removed
+/usr/sbin/rcslpd:openslp-server removed
+/usr/bin/ttf2afm:texlive-afm removed
+/usr/bin/compress-dummy:sharutils removed |use gzip -d
+/usr/bin/mail-files:sharutils removed |it was broken
+/usr/bin/mailshar:sharutils removed |it was broken
+/usr/bin/remsync:sharutils removed
+/usr/bin/aclocal-1.6:automake16 removed |legacy unsupported
+/usr/bin/automake-1.6:automake16 removed |legacy unsupported
+/usr/bin/aclocal-1.4:automake14 removed |legacy unsupported
+/usr/bin/automake-1.4:automake14 removed |legacy unsupported
+/usr/bin/aclocal-1.5:automake15 removed |legacy unsupported
+/usr/bin/automake-1.5:automake15 removed |legacy unsupported
+/usr/bin/modulator:python-tools removed
+/usr/bin/pk-debuginfo-install:PackageKit-debug-install removed
+/sbin/dracut-gencmdline:dracut-tools removed
+/usr/bin/jjrun:javacc removed
+/usr/bin/scdaemon:gnupg2-smime removed
+/usr/sbin/rhev-check.sh:resource-agents removed |removed rgmanager
+/usr/sbin/modclusterd:modcluster removed |see pcs
+/usr/bin/ccs_sync:ricci removed |obsoleted by pcs
+/usr/sbin/ricci:ricci removed |obsoleted by pcs
+/usr/sbin/corosync-fplay:corosync removed
+/usr/sbin/corosync-objctl:corosync removed
+/usr/sbin/corosync-pload:corosync removed
+/usr/sbin/fence_legacy:pacemaker removed |Neither CMAN nor rgmanager exists on CentOS7 systems.
+/usr/sbin/fence_pcmk:pacemaker removed
+/usr/sbin/aisexec:openais removed
+/usr/sbin/openais-instantiate:openais removed
+/usr/sbin/clubufflush:rgmanager removed
+/usr/sbin/clufindhostname:rgmanager removed
+/usr/sbin/clulog:rgmanager removed
+/usr/sbin/clunfslock:rgmanager removed
+/usr/sbin/clurgmgrd:rgmanager removed
+/usr/sbin/clustat:rgmanager removed
+/usr/sbin/clusvcadm:rgmanager removed
+/usr/sbin/cpglockd:rgmanager removed
+/usr/sbin/cpglockdump:rgmanager removed
+/usr/sbin/rg_test:rgmanager removed
+/usr/sbin/rgmanager:rgmanager removed
+/usr/sbin/ccs_config_dump:cman removed |see man pcs and corosync-quorumtool
+/usr/sbin/ccs_config_validate:cman removed |see man pcs and corosync-quorumtool
+/usr/sbin/ccs_test:cman removed |see man pcs and corosync-quorumtool
+/usr/sbin/ccs_tool:cman removed |see man pcs and corosync-quorumtool
+/usr/sbin/ccs_update_schema:cman removed |see man pcs and corosync-quorumtool
+/usr/sbin/cman_notify:cman removed
+/usr/sbin/cman_tool:cman removed |corosync-quorumtool replaces options nodes and status
+/usr/sbin/cmannotifyd:cman removed
+/usr/sbin/fence_check:cman removed |see man pcs
+/usr/sbin/fence_node:cman removed |see man pcs
+/usr/sbin/fence_tool:cman removed |see man pcs
+/usr/sbin/fenced:cman removed |see man pcs
+/usr/sbin/gfs_control:cman removed |functionality handled in-kernel
+/usr/sbin/gfs_controld:cman removed |functionality handled in-kernel
+/usr/sbin/group_tool:cman removed |see man pcs
+/usr/sbin/groupd:cman removed |see man pcs
+/usr/sbin/mkqdisk:cman removed
+/usr/sbin/qdiskd:cman removed
+/usr/sbin/ccs:ccs removed |replaced by pcs
+/usr/sbin/luci:luci removed
+/usr/sbin/xfs_check:xfsprogs removed |deprecated
+/usr/bin/g++34:compat-gcc-34-c++ removed
+/usr/bin/x86_64-redhat-linux-c++34:compat-gcc-34-c++ removed
+/usr/bin/x86_64-redhat-linux-g++34:compat-gcc-34-c++ removed
+/usr/bin/pki-setup-proxy:pki-setup removed
+/usr/bin/pkicreate:pki-setup removed
+/usr/bin/pkiremove:pki-setup removed
+/usr/bin/libgnutls-extra-config:gnutls-devel removed
+/usr/bin/tomcat6-digest:tomcat6 removed
+/usr/bin/tomcat6-tool-wrapper:tomcat6 removed
+/usr/sbin/dtomcat6:tomcat6 removed
+/usr/sbin/tomcat6:tomcat6 removed
+/usr/bin/pabrowse:pulseaudio-libs-zeroconf removed |obsoleted
+/usr/bin/gcj:gcc-java removed |see javac (doesn't do native compilation)
+/usr/bin/gcjh:gcc-java removed |see gcjh (doesn't support CNI)
+/usr/bin/gjavah:gcc-java removed |see javap
+/usr/bin/jcf-dump:gcc-java removed |see javap
+/usr/sbin/krb5-send-pr:krb5-server removed
+/usr/bin/pk-example-frobnicate:polkit-devel removed |security reasons
+/usr/bin/mksmbpasswd.sh:samba removed |non-working and noone ever used
+/usr/bin/aot-compile:java-1.5.0-gcj-devel removed
+/usr/bin/aot-compile-rpm:java-1.5.0-gcj-devel removed
+/usr/bin/pkisilent:pki-silent removed
+/usr/bin/antlr-config:antlr removed |usage doesn't make sense
+/usr/bin/antlr-java:antlr removed
+/usr/sbin/ipa-upgradeconfig:ipa-server removed
+/usr/bin/gnome-doc-common:gnome-common removed
+/usr/bin/git-rev-tree:mercurial removed
+/usr/bin/hg-viz:mercurial removed
+/usr/bin/mercurial-convert-repo:mercurial removed
+/usr/bin/gcc34:compat-gcc-34 removed
+/usr/bin/gcov34:compat-gcc-34 removed
+/usr/bin/x86_64-redhat-linux-gcc34:compat-gcc-34 removed
+/usr/bin/dbscan-bin:389-ds-base removed
+/usr/bin/dsktune-bin:389-ds-base removed
+/usr/bin/infadd-bin:389-ds-base removed
+/usr/bin/ldclt-bin:389-ds-base removed
+/usr/bin/ldif-bin:389-ds-base removed
+/usr/bin/migratecred-bin:389-ds-base removed
+/usr/bin/mmldif-bin:389-ds-base removed
+/usr/bin/pwdhash-bin:389-ds-base removed
+/usr/bin/rsearch-bin:389-ds-base removed
+/usr/sbin/ldap-agent-bin:389-ds-base removed
+/usr/bin/bulkissuance:pki-native-tools removed |does not work as described, try some workrounds https://access.redhat.com/solutions/44042
+/usr/bin/gtkdoc-mktmpl:gtk-doc removed
+/usr/bin/gtkdoc-scanobj:gtk-doc removed
+/usr/bin/doxytag:doxygen removed
+/sbin/mount.gfs2:gfs2-utils removed |not needed to mount gfs2 file systems anymore
+/usr/sbin/gfs2_quota:gfs2-utils removed |obsoleted in favour of the standard quota tools (setquota, etc.)
+/usr/sbin/gfs2_tool:gfs2-utils removed |see https://access.redhat.com/documentation/en-US/Red_Hat_Enterprise_Linux/7/html-single/Global_File_System_2/index.html#gfs2toolreplace
+/usr/bin/ctdb_lock_helper:ctdb removed
+/usr/bin/smnotify:ctdb removed
+/usr/sbin/tgt-admin:scsi-target-utils removed
+/usr/sbin/tgt-setup-lun:scsi-target-utils removed |see targetcli
+/usr/sbin/tgtadm:scsi-target-utils removed
+/usr/sbin/tgtd:scsi-target-utils removed
+/usr/sbin/tgtimg:scsi-target-utils removed
+/usr/sbin/rcopenwsmand:openwsman-server removed
+/usr/sbin/radwatch:freeradius removed
+/usr/sbin/ospfclient:quagga removed |removed dependencies (libospfapiclient)
+/usr/sbin/watchquagga:quagga removed |same functionality implemented by systemd
+/usr/bin/kbugbuster:kdesdk removed
+/usr/bin/kdesvn-build:kdesdk removed
+/usr/bin/python2.6-config:python-devel replaced |python2.7
+/bin/iptables-xml-1.4.7:iptables replaced |iptables-xml
+/sbin/iptables-1.4.7:iptables replaced |iptables
+/sbin/iptables-multi-1.4.7:iptables replaced |iptables-multi
+/sbin/iptables-restore-1.4.7:iptables replaced |iptables-restore
+/sbin/iptables-save-1.4.7:iptables replaced |iptables-save
+/sbin/ip6tables-1.4.7:iptables-ipv6 replaced |ip6tables
+/sbin/ip6tables-multi-1.4.7:iptables-ipv6 replaced |ip6tables-multi
+/sbin/ip6tables-restore-1.4.7:iptables-ipv6 replaced |ip6tables-restore
+/sbin/ip6tables-save-1.4.7:iptables-ipv6 replaced |ip6tables-save
+/usr/bin/easy_install-2.6:python-setuptools replaced |easy_install-2.7
+/sbin/brcm_iscsiuio:iscsi-initiator-utils replaced |iscsiuio
+/sbin/udevd:udev replaced |/usr/lib/systemd/systemd-udevd
+/usr/bin/aclocal-1.11:automake replaced |aclocal
+/usr/bin/automake-1.11:automake replaced |automake
+/usr/bin/jwhois:jwhois replaced |whois
+/usr/bin/rsvg:librsvg2 replaced |librsvg-convert:librsvg2-tools
+/usr/bin/rsvg-view:librsvg2 replaced |rsvg-view-3:librsvg2-tools
+/usr/bin/python2.6:python replaced |python2.7
+/usr/bin/mysql_fix_privilege_tables:mysql-server replaced |mysql_upgrade:mariadb-server
+/usr/bin/emacs-23.1-nox:emacs-nox replaced |emacs-24.3-nox
+/usr/sbin/modem-manager:ModemManager replaced |ModemManager
+/usr/bin/emacs-23.1:emacs replaced |emacs-24.3
+/usr/bin/gimp-2.6:gimp replaced |gimp-2.8
+/usr/bin/gimp-console-2.6:gimp replaced |gimp-2.8
+/usr/bin/iptraf:iptraf replaced |iptraf-ng
+/usr/bin/rvnamed:iptraf replaced |rvnamed-ng
+/usr/sbin/bcopy.sqlite:bacula-storage-sqlite replaced |/usr/bin/bcopy
+/usr/sbin/bscan.sqlite:bacula-storage-sqlite replaced |/usr/sbin/bscan
+/usr/sbin/bacula-dir.mysql:bacula-director-mysql replaced |/usr/sbin/bacula-dir
+/usr/sbin/dbcheck.mysql:bacula-director-mysql replaced |/usr/sbin/dbcheck
+/usr/sbin/bcopy.postgresql:bacula-storage-postgresql replaced |/usr/sbin/bcopy
+/usr/sbin/bscan.postgresql:bacula-storage-postgresql replaced |/usr/sbin/bscan
+/usr/sbin/bacula-dir.postgresql:bacula-director-postgresql replaced |/usr/sbin/bacula-dir
+/usr/sbin/dbcheck.postgresql:bacula-director-postgresql replaced |/usr/sbin/dbcheck
+/usr/sbin/bacula-dir.sqlite:bacula-director-sqlite replaced |/usr/sbin/bacula-dir
+/usr/sbin/dbcheck.sqlite:bacula-director-sqlite replaced |/usr/sbin/dbecheck
+/usr/bin/javacc:javacc replaced |javacc.sh
+/usr/sbin/bcopy.mysql:bacula-storage-mysql replaced |/usr/sbin/bcopy
+/usr/sbin/bscan.mysql:bacula-storage-mysql replaced |/usr/sbin/bscan
+/sbin/matchpathcon:libselinux moved libselinux-utils
+/sbin/iscsiuio:iscsi-initiator-utils moved iscsi-initiator-utils-iscsiuio
+/bin/su:coreutils moved util-linux
+/sbin/runuser:coreutils moved util-linux
+/bin/mountpoint:sysvinit-tools moved util-linux
+/sbin/sulogin:sysvinit-tools moved util-linux
+/bin/cgclassify:libcgroup moved libcgroup-tools
+/bin/cgcreate:libcgroup moved libcgroup-tools
+/bin/cgdelete:libcgroup moved libcgroup-tools
+/bin/cgexec:libcgroup moved libcgroup-tools
+/bin/cgget:libcgroup moved libcgroup-tools
+/bin/cgset:libcgroup moved libcgroup-tools
+/bin/cgsnapshot:libcgroup moved libcgroup-tools
+/bin/lscgroup:libcgroup moved libcgroup-tools
+/bin/lssubsys:libcgroup moved libcgroup-tools
+/sbin/cgclear:libcgroup moved libcgroup-tools
+/sbin/cgconfigparser:libcgroup moved libcgroup-tools
+/sbin/cgrulesengd:libcgroup moved libcgroup-tools
+/sbin/dracut:dracut changed_path /usr/bin/dracut
+/sbin/lsinitrd:dracut changed_path /usr/bin/lsinitrd
+/sbin/mkinitrd:dracut changed_path /usr/bin/mkinitrd
+/usr/sbin/makedumpfile:kexec-tools changed_path /sbin/makedumpfile
+/usr/bin/pm-utils-bugreport-info.sh:pm-utils changed_path /usr/sbin/pm-utils-bugreport-info.sh
+/sbin/udevadm:udev changed_path /usr/bin/udevadm
+/usr/sbin/lsusb:usbutils changed_path /usr/bin/lsusb
+/usr/bin/alsa-info:alsa-utils changed_path /usr/sbin/alsa-info
+/usr/bin/alsa-info.sh:alsa-utils changed_path /usr/sbin/alsa-info.sh
+/usr/sbin/alsa-delay:alsa-utils changed_path /usr/bin/alsa-delay
+/usr/sbin/eject:eject changed_path /usr/bin/eject
+/usr/bin/tuned-adm:tuned changed_path /usr/sbin/tuned-adm
+/usr/bin/eventlogadm:samba4 changed_path /usr/sbin/eventlogadm
+/usr/sbin/bccmd:bluez changed_path /usr/bin/bccmd
+/usr/sbin/hciattach:bluez changed_path /usr/bin/hciattach
+/usr/sbin/hciconfig:bluez changed_path /usr/bin/hciconfig
+/usr/bin/wireshark:wireshark-gnome changed_path /usr/sbin/wireshark
+/usr/bin/bacula-tray-monitor:bacula-traymonitor changed_path /usr/sbin/bacula-tray-monitor
+/usr/sbin/gnome-system-log:gnome-system-log changed_path /usr/bin/gnome-system-log
+/usr/bin/bat:bacula-console-bat changed_path /usr/sbin/bat
+/sbin/dracut-catimages:dracut-tools changed_path /usr/bin/dracut-catimages
+/usr/sbin/apxs:httpd-devel changed_path /usr/bin/apxs
+/usr/bin/eventlogadm:samba changed_path /usr/sbin/eventlogadm
+/usr/sbin/arpaname:bind changed_path /usr/bin/arpaname
+/usr/bin/mailman-update-cfg:mailman changed_path /usr/lib/mailman/bin/mailman-update-cfg
+/usr/bin/halt:usermode moved_changed_path /usr/sbin/halt:systemd
+/usr/bin/poweroff:usermode moved_changed_path /usr/sbin/poweroff:systemd
+/usr/bin/reboot:usermode moved_changed_path /usr/sbin/reboot:systemd
+/usr/sbin/httxt2dbm:httpd moved_changed_path /usr/bin/httxt2dbm:httpd-tools
+/usr/sbin/inputattach:gpm moved_changed_path /usr/bin/inputattach:linuxconsoletools

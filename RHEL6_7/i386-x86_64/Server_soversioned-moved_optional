@@ -1,0 +1,15 @@
+libaspell.so.15:aspell|aspell:libaspell.so.15
+libavahi-ui.so.0:avahi-ui|avahi-ui:libavahi-ui.so.0
+libcspi.so.0:at-spi|at-spi:libcspi.so.0
+libee.so.0:libee|libee:libee.so.0
+libgstcheck-0.10.so.0:gstreamer-devel|gstreamer-devel:libgstcheck-0.10.so.0
+libgtk-vnc-1.0.so.0:gtk-vnc|gtk-vnc:libgtk-vnc-1.0.so.0
+libkateinterfaces.so.4:kdesdk-libs|kate-libs:libkateinterfaces.so.4
+libkolourpaint_lgpl.so.4:kdegraphics-libs|kolourpaint-libs:libkolourpaint_lgpl.so.4
+libloginhelper.so.0:at-spi|at-spi:libloginhelper.so.0
+liboil-0.3.so.0:liboil|liboil:liboil-0.3.so.0
+libopenrawgnome.so.1:libopenraw-gnome|libopenraw-gnome:libopenrawgnome.so.1
+libpspell.so.15:aspell|aspell:libpspell.so.15
+libsexy.so.2:libsexy|libsexy:libsexy.so.2
+libspi.so.0:at-spi|at-spi:libspi.so.0
+libsvnjavahl-1.so.0:subversion-javahl|subversion-javahl:libsvnjavahl-1.so.0

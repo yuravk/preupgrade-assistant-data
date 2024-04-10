@@ -1,0 +1,202 @@
+additional-devel| | GConf2-devel,alsa-lib-devel,audit-libs-devel,binutils-devel,boost-devel,bzip2-devel,cyrus-sasl-devel,dbus-glib-devel,elfutils-devel,elfutils-libelf-devel,evolution-data-server-devel,gnome-desktop-devel,gnome-keyring-devel,gstreamer-devel,gvfs-devel,hmaccalc,java-1.6.0-openjdk-devel,java-1.7.0-openjdk-devel,libacl-devel,libattr-devel,libcanberra-devel,libcap-ng-devel,libcgroup-devel,libcurl-devel,libgnome-devel,libnotify-devel,librsvg2-devel,libselinux-devel,libsoup-devel,mysql-devel,perl-ExtUtils-MakeMaker,perl-devel,polkit-devel,postgresql-devel,pulseaudio-libs-devel,pygtk2-devel,python-devel,readline-devel,sqlite-devel,tbb-devel | PyQt4-devel,SDL-devel,cups-devel,e2fsprogs-devel,expat-devel,freeglut-devel,fuse-devel,gmp-devel,gnome-python2-desktop,gnutls-devel,gstreamer-plugins-base-devel,httpd-devel,hunspell-devel,iptables-devel,java-1.8.0-openjdk-devel,java-gcj-compat-devel,junit,kdebase-devel,kdebase-workspace-devel,kdegraphics-devel,kdelibs-apidocs,kdelibs-devel,kdemultimedia-devel,kdenetwork-devel,kdepim-devel,kdepimlibs-devel,kdeplasma-addon-devel,kdesdk-devel,libXau-devel,libXaw-devel,libXinerama-devel,libXmu-devel,libXpm-devel,libXrandr-devel,libaio-devel,libblkid-devel,libbonobo-devel,libcap-devel,libdrm-devel,libgcrypt-devel,libglade2-devel,libgnomeui-devel,libgudev1-devel,libhugetlbfs-devel,libibverbs-devel,libnl-devel,libnl3-devel,libtiff-devel,libtopology-devel,libudev-devel,libusb-devel,libuuid-devel,libxslt-devel,mpfr-devel,net-snmp-devel,numactl-devel,openmotif-devel,papi-devel,pcre-devel,perl-Test-More,perl-Test-Pod,perl-Test-Pod-Coverage,popt-devel,python-setuptools-devel,sane-backends-devel,snappy-devel,startup-notification-devel,tcl-devel,tcp_wrappers-devel,tk-devel,unique-devel,unixODBC-devel,xorg-x11-proto-devel,xz-devel
+afrikaans-support| |  | autocorr-af,hyphen-af,libreoffice-langpack-af
+albanian-support| |  | eclipse-nls-sq,hunspell-sq
+amazigh-support| |  | hunspell-ber
+arabic-support| | dejavu-sans-fonts,dejavu-sans-mono-fonts,kacst-art-fonts,kacst-book-fonts,kacst-decorative-fonts,kacst-digital-fonts,kacst-farsi-fonts,kacst-letter-fonts,kacst-naskh-fonts,kacst-office-fonts,kacst-one-fonts,kacst-pen-fonts,kacst-poster-fonts,kacst-qurn-fonts,kacst-screen-fonts,kacst-title-fonts,kacst-titlel-fonts,paktype-naqsh-fonts,paktype-tehreer-fonts | eclipse-nls-ar,hunspell-ar,kde-i18n-Arabic,kde-l10n-Arabic,libreoffice-langpack-ar
+armenian-support|dejavu-sans-fonts |  | hunspell-hy
+assamese-support|lohit-assamese-fonts,m17n-contrib-assamese,m17n-db-assamese | Red_Hat_Enterprise_Linux-Release_Notes-6-as-IN,iok | hunspell-as,hyphen-as,ibus-m17n,libreoffice-langpack-as
+azerbaijani-support| |  | hunspell-az
+backup-client|amanda-client |  | bacula-client,rear
+backup-server|amanda-server |  | mt-st,mtx
+base|alsa-utils,at,authconfig,bc,bind-utils,crontabs,cyrus-sasl-plain,dbus,ed,file,logrotate,lsof,man,ntsysv,parted,pciutils,psacct,quota,redhat-indexhtml,setserial,tmpwatch,traceroute | Red_Hat_Enterprise_Linux-Release_Notes-6-en-US,abrt-addon-ccpp,abrt-addon-kerneloops,abrt-addon-python,abrt-cli,abrt-plugin-mailx,abrt-plugin-sosreport,acpid,b43-fwcutter,biosdevname,blktrace,bridge-utils,bzip2,cpuspeed,cryptsetup-luks,dmraid,dosfstools,eject,ethtool,fprintd-pam,gnupg2,hunspell,hunspell-en,irqbalance,ledmon,libaio,lvm2,man-pages,man-pages-overrides,mdadm,microcode_ctl,mlocate,mtr,nano,ntp,ntpdate,openssh-clients,openssl-ibmca,pam_passwdqc,pcmciautils,pinfo,plymouth,pm-utils,prelink,rdate,readahead,redhat-access-insights,redhat-support-tool,rfkill,rng-tools,rsync,scl-utils,setuptool,smartmontools,sos,strace,sysstat,system-config-firewall-tui,system-config-network-tui,systemtap-runtime,tcpdump,tcsh,time,unzip,usbutils,vconfig,vim-enhanced,virt-what,wget,which,wireless-tools,words,xz,yum-plugin-security,yum-utils,zip | PyPAM,audispd-plugins,brltty,chrony,cloud-init,convmv,cpuid,cpupowerutils,cryptsetup-reencrypt,device-mapper-persistent-data,dos2unix,dumpet,ecryptfs-utils,edac-utils,gdisk,genisoimage,gpm,insights-client,kabi-yum-plugins,kernel-doc,linuxptp,logwatch,mkbootdisk,mtools,ncurses-term,nss_db,oddjob,openssh-clients-fips,pax,python-dmidecode,python-volume_key,rsyslog-gnutls,rsyslog-gssapi,rsyslog-relp,servicelog,sgpio,sox,squashfs-tools,star,subscription-manager-migration,subscription-manager-migration-data,tboot,tunctl,udftools,unix2dos,uuidd,volume_key,wodim,x86info,yum-plugin-aliases,yum-plugin-changelog,yum-plugin-downloadonly,yum-plugin-ovl,yum-plugin-protect-packages,yum-plugin-tmprepo,yum-plugin-verify,yum-plugin-versionlock,yum-presto,zsh
+basic-desktop|NetworkManager,NetworkManager-gnome,alsa-plugins-pulseaudio,at-spi,control-center,dbus,gdm,gdm-user-switch-applet,gnome-panel,gnome-power-manager,gnome-screensaver,gnome-session,gnome-terminal,gvfs-archive,gvfs-fuse,gvfs-smb,metacity,nautilus,notification-daemon,polkit-gnome,xdg-user-dirs-gtk,yelp | control-center-extra,eog,gdm-plugin-fingerprint,gnome-applets,gnome-media,gnome-packagekit,gnome-vfs2-smb,gok,openssh-askpass,orca,pulseaudio-module-gconf,pulseaudio-module-x11,rhn-setup-gnome,subscription-manager-gui,vino | sabayon-apply,tigervnc-server,xguest
+basque-support| |  | autocorr-eu,hunspell-eu,kde-l10n-Basque,libreoffice-langpack-eu
+belarusian-support| |  | hunspell-be,hyphen-be
+bengali-support|lohit-bengali-fonts,m17n-contrib-bengali,m17n-db-bengali | Red_Hat_Enterprise_Linux-Release_Notes-6-bn-IN,iok | hunspell-bn,hyphen-bn,ibus-m17n,kde-i18n-Bengali,kde-l10n-Bengali-India,libreoffice-langpack-bn
+bhutanese-support|jomolhari-fonts |  | libreoffice-langpack-dz
+brazilian-support| | Red_Hat_Enterprise_Linux-Release_Notes-6-pt-BR | autocorr-pt,eclipse-nls-pt_BR,hunspell-pt,hyphen-pt,kde-i18n-Brazil,kde-l10n-Brazil,libreoffice-langpack-pt-BR,mythes-pt
+breton-support| |  | hunspell-br
+british-support| |  | kde-i18n-British,kde-l10n-British
+bulgarian-support| |  | autocorr-bg,eclipse-nls-bg,hunspell-bg,hyphen-bg,kde-i18n-Bulgarian,kde-l10n-Bulgarian,libreoffice-langpack-bg,mythes-bg
+burmese-support| | sil-padauk-fonts | 
+catalan-support| |  | eclipse-nls-ca,hunspell-ca,hyphen-ca,kde-i18n-Catalan,kde-l10n-Catalan,libreoffice-langpack-ca,mythes-ca
+chhattisgarhi-support| |  | kde-l10n-Chhattisgarhi
+chichewa-support| |  | hunspell-ny
+chinese-support| | Red_Hat_Enterprise_Linux-Release_Notes-6-zh-CN,Red_Hat_Enterprise_Linux-Release_Notes-6-zh-TW,cjkuni-ukai-fonts,cjkuni-uming-fonts,ibus-table-cangjie,ibus-table-erbi,ibus-table-wubi,wqy-zenhei-fonts | cjkuni-fonts-ghostscript,autocorr-zh,eclipse-nls-zh,eclipse-nls-zh_TW,ibus-chewing,ibus-pinyin,kde-i18n-Chinese,kde-i18n-Chinese-Big5,kde-l10n-Chinese,kde-l10n-Chinese-Traditional,libreoffice-langpack-zh-Hans,libreoffice-langpack-zh-Hant
+cifs-file-server|samba |  | tdb-tools
+client-mgmt-tools| |  | vios-proxy
+compat-libraries| | compat-db,compat-expat1,compat-glibc,compat-libcap1,compat-libf2c-34,compat-libgcc-296,compat-libgfortran-41,compat-libstdc++-295,compat-libstdc++-296,compat-libstdc++-33,compat-libtermcap,compat-openldap,compat-openmpi,compat-openmpi-psm,compat-opensm-libs,compat-readline5,compat-xcb-util,openssl098e | 
+conflicts-server|cpupowerutils,ipa-server,ipa-server-selinux,ipa-server-trust-ad,libcmpiCppImpl0,openhpi32,openhpi32-libs,rsyslog7,rsyslog7-gnutls,rsyslog7-gssapi,rsyslog7-mysql,rsyslog7-pgsql,rsyslog7-relp,samba4,samba4-client,samba4-common,samba4-dc,samba4-dc-libs,samba4-devel,samba4-libs,samba4-pidl,samba4-python,samba4-swat,samba4-test,samba4-winbind,samba4-winbind-clients,samba4-winbind-krb5-locator,squid34 |  | 
+console-internet| | elinks | fetchmail,ftp,irssi,jwhois,lftp,mutt
+coptic-support| |  | hunspell-cop
+core|acl,attr,audit,basesystem,bash,coreutils,cpio,cronie,dhclient,e2fsprogs,filesystem,glibc,initscripts,iproute,iptables,iptables-ipv6,iputils,kbd,ncurses,openssh-server,passwd,policycoreutils,procps,redhat-support-tool,rhnsd,rootfiles,rpm,rsyslog,selinux-policy-targeted,setup,shadow-utils,subscription-manager,sudo,util-linux-ng,vim-minimal,yum,yum-rhn-plugin | aic94xx-firmware,atmel-firmware,b43-openfwwf,bfa-firmware,efibootmgr,grub,ipw2100-firmware,ipw2200-firmware,ivtv-firmware,iwl100-firmware,iwl1000-firmware,iwl3945-firmware,iwl4965-firmware,iwl5000-firmware,iwl5150-firmware,iwl6000-firmware,iwl6000g2a-firmware,iwl6050-firmware,kernel-firmware,kexec-tools,libertas-usb8388-firmware,netxen-firmware,postfix,ql2100-firmware,ql2200-firmware,ql23xx-firmware,ql2400-firmware,ql2500-firmware,rdma,rt61pci-firmware,rt73usb-firmware,xorg-x11-drv-ati-firmware,zd1211-firmware | dracut-fips,dracut-network,libee-devel,openssh-server-fips,selinux-policy-doc
+croatian-support| |  | hunspell-hr,hyphen-hr,kde-l10n-Croatian,libreoffice-langpack-hr
+czech-support|m17n-contrib-czech |  | autocorr-cs,eclipse-nls-cs,hunspell-cs,hyphen-cs,kde-i18n-Czech,kde-l10n-Czech,libreoffice-langpack-cs,man-pages-cs,mythes-cs
+danish-support| |  | autocorr-da,eclipse-nls-da,hunspell-da,hyphen-da,kde-i18n-Danish,kde-l10n-Danish,libreoffice-langpack-da,mythes-da
+debugging|gdb,kexec-tools,latrace,libreport-python,strace,systemtap-runtime | abrt-addon-ccpp,abrt-addon-python,abrt-cli,cas,crash,crash-gcore-command,crash-trace-command,elfutils,ltrace,trace-cmd,valgrind | flightrecorder,gdb-gdbserver,glibc-utils,lslk,memtest86+,ps_mem,systemtap-client,systemtap-initscript
+desktop-debugging| | abrt-desktop,libreport-gtk | abrt-gui,bltk,oprofile-gui,pcp,systemtap-grapher,xrestop
+desktop-platform|atk,cairo,dbus,dbus-libs,fontconfig,freetype,glib2,gtk2,libICE,libSM,libX11,libXext,libXft,libXi,libXrender,libXt,libXtst,libjpeg-turbo,libpng,libxml2,mesa-libGL,mesa-libGLU,pango,qt,qt3,redhat-lsb-graphics,redhat-lsb-printing |  | qt-mysql,qt-odbc,qt-postgresql,qt3-MySQL,qt3-ODBC,qt3-PostgreSQL
+desktop-platform-devel|atk-devel,cairo-devel,dbus-devel,fontconfig-devel,freetype-devel,glib2-devel,gtk2-devel,libICE-devel,libSM-devel,libX11-devel,libXext-devel,libXft-devel,libXi-devel,libXrender-devel,libXt-devel,libXtst-devel,libjpeg-turbo-devel,libpng-devel,libxml2-devel,mesa-libGL-devel,mesa-libGLU-devel,mesa-libGLw-devel,pango-devel,qt-devel,qt3-devel,xorg-x11-docs |  | desktop-file-utils,glade3,gnome-common,gnome-devel-docs,gtk2-devel-docs,kdesdk,qt-doc
+development|autoconf,automake,binutils,bison,flex,gcc,gcc-c++,gettext,libtool,make,patch,pkgconfig,redhat-rpm-config,rpm-build | byacc,cscope,ctags,cvs,diffstat,doxygen,elfutils,gcc-gfortran,git,indent,intltool,patchutils,rcs,subversion,swig,systemtap | ElectricFence,PyYAML,ant,babel,bzr,chrpath,cmake,compat-gcc-34,compat-gcc-34-c++,compat-gcc-34-g77,cvs-inetd,dejagnu,expect,gcc-gnat,gcc-java,gcc-objc,gcc-objc++,imake,jpackage-utils,kdewebdev,ksc,libstdc++-docs,mercurial,mod_dav_svn,nasm,perltidy,python-docs,python-requests,python-six,rpmdevtools,rpmlint,systemtap-sdt-devel,systemtap-server
+dial-up|ppp | lrzsz,minicom,wvdial | efax,isdn4k-utils,pptp,rp-pppoe
+directory-client| | adcli,ipa-client,oddjob-mkhomedir,sssd,ypbind | certmonger,hesinfo,krb5-appl-clients,krb5-pkinit-openssl,krb5-workstation,ldapjdk,libsss_sudo,nscd,nss-pam-ldapd,openldap-clients,pam_krb5,pam_ldap,samba-winbind,sssd-dbus
+directory-server| |  | krb5-server,krb5-server-ldap,migrationtools,openldap-servers,samba,ypserv
+dutch-support| |  | autocorr-nl,eclipse-nls-nl,hunspell-nl,hyphen-nl,kde-i18n-Dutch,kde-l10n-Dutch,libreoffice-langpack-nl,mythes-nl
+eclipse|eclipse-cdt,eclipse-jdt | eclipse-callgraph,eclipse-changelog,eclipse-mylyn,eclipse-mylyn-java,eclipse-oprofile,eclipse-pde,eclipse-rpm-editor,eclipse-subclipse,eclipse-valgrind | eclipse-mylyn-cdt,eclipse-mylyn-pde,eclipse-mylyn-trac,eclipse-mylyn-webtasks,eclipse-mylyn-wikitext,eclipse-subclipse-graph
+emacs|emacs |  | ctags-etags,emacs-auctex,emacs-gnuplot,emacs-nox
+esperanto-support| |  | hunspell-eo
+estonian-support| |  | eclipse-nls-et,hunspell-et,hyphen-et,kde-i18n-Estonian,kde-l10n-Estonian,libreoffice-langpack-et
+ethiopic-support| | abyssinica-fonts | 
+faroese-support| |  | hunspell-fo
+fijian-support| |  | hunspell-fj
+filipino-support| |  | hunspell-tl
+finnish-support| |  | autocorr-fi,eclipse-nls-fi,kde-i18n-Finnish,kde-l10n-Finnish,libreoffice-langpack-fi
+fonts| | abyssinica-fonts,cjkuni-uming-fonts,dejavu-sans-fonts,dejavu-sans-mono-fonts,dejavu-serif-fonts,google-crosextra-caladea-fonts,google-crosextra-carlito-fonts,jomolhari-fonts,khmeros-base-fonts,kurdit-unikurd-web-fonts,liberation-mono-fonts,liberation-sans-fonts,liberation-serif-fonts,lklug-fonts,lohit-assamese-fonts,lohit-bengali-fonts,lohit-devanagari-fonts,lohit-gujarati-fonts,lohit-kannada-fonts,lohit-oriya-fonts,lohit-punjabi-fonts,lohit-tamil-fonts,lohit-telugu-fonts,madan-fonts,paktype-naqsh-fonts,paktype-tehreer-fonts,sil-padauk-fonts,smc-meera-fonts,stix-fonts,thai-scalable-waree-fonts,tibetan-machine-uni-fonts,un-core-dotum-fonts,vlgothic-fonts,wqy-zenhei-fonts | bitmap-fixed-fonts,bitmap-lucida-typewriter-fonts,cjkuni-fonts-ghostscript
+french-support| | Red_Hat_Enterprise_Linux-Release_Notes-6-fr-FR | autocorr-fr,eclipse-nls-fr,hunspell-fr,hyphen-fr,kde-i18n-French,kde-l10n-French,libreoffice-langpack-fr,man-pages-fr,mythes-fr
+frisian-support| |  | hunspell-fy,kde-l10n-Frisian
+friulian-support| |  | hunspell-fur
+ftp-server|vsftpd |  | xferstats
+gaelic-support| |  | hunspell-gd
+galician-support| |  | hunspell-gl,kde-l10n-Galician,libreoffice-langpack-gl
+general-desktop| | PackageKit-gstreamer-plugin,authconfig-gtk,brasero-nautilus,cheese,compiz-gnome,evince,evince-dvi,file-roller,gcalctool,gedit,gnome-backgrounds,gnome-bluetooth,gnome-disk-utility,gnome-power-manager,gnome-system-monitor,gnome-themes,gnome-user-docs,gnome-user-share,gnome-utils,gnote,gthumb,gucharmap,gvfs-afc,gvfs-gphoto2,gvfs-obexftp,mousetweaks,nautilus-open-terminal,nautilus-sendto,rhythmbox,scenery-backgrounds,seahorse,sound-juicer,system-config-firewall,system-config-users,totem,totem-nautilus | alacarte,byzanz,dvgrab,gconf-editor,gedit-plugins,gnome-games,gnome-pilot,gnome-pilot-conduits,krb5-auth-dialog,rhythmbox-upnp,seahorse-plugins,totem-upnp,vim-X11
+georgian-support|dejavu-sans-fonts | bpg-chveulebrivi-fonts,bpg-courier-fonts,bpg-glaho-fonts,dejavu-sans-mono-fonts,dejavu-serif-fonts | 
+german-support| | Red_Hat_Enterprise_Linux-Release_Notes-6-de-DE | autocorr-de,eclipse-nls-de,hunspell-de,hyphen-de,kde-i18n-German,kde-l10n-German,libreoffice-langpack-de,mythes-de
+graphical-admin-tools|dbus | authconfig-gtk,gnome-disk-utility,gnome-packagekit,system-config-firewall,system-config-kdump,system-config-keyboard,system-config-services,system-config-users | audit-viewer,firstaidkit-gui,lshw-gui,policycoreutils-gui,sabayon,setroubleshoot,system-config-kickstart,system-config-lvm,wireshark-gnome,system-config-services-docs,system-config-users-docs
+graphics|gimp | gimp-data-extras,gimp-help,gimp-help-browser,gutenprint-plugin,libsane-hpaio,sane-backends-libs-gphoto2,sane-frontends,xsane,xsane-gimp | ImageMagick,dcraw,inkscape,netpbm-progs,xfig
+greek-support| |  | eclipse-nls-el,hunspell-el,hyphen-el,kde-i18n-Greek,kde-l10n-Greek,libreoffice-langpack-el,mythes-el,tex-cm-lgc,tex-kerkis
+guest-agents| | hyperv-daemons,qemu-guest-agent | 
+gujarati-support|lohit-gujarati-fonts,m17n-contrib-gujarati,m17n-db-gujarati | Red_Hat_Enterprise_Linux-Release_Notes-6-gu-IN,iok,samyak-gujarati-fonts | hunspell-gu,hyphen-gu,ibus-m17n,kde-l10n-Gujarati,libreoffice-langpack-gu
+hardware-monitoring| | mcelog,smartmontools | edac-utils,i2c-tools,lm_sensors
+hebrew-support|dejavu-sans-fonts | culmus-aharoni-clm-fonts,culmus-caladings-clm-fonts,culmus-david-clm-fonts,culmus-drugulin-clm-fonts,culmus-ellinia-clm-fonts,culmus-frank-ruehl-clm-fonts,culmus-miriam-clm-fonts,culmus-miriam-mono-clm-fonts,culmus-nachlieli-clm-fonts,culmus-yehuda-clm-fonts | eclipse-nls-he,hunspell-he,kde-i18n-Hebrew,kde-l10n-Hebrew,libreoffice-langpack-he
+hiligaynon-support| |  | hunspell-hil
+hindi-support|lohit-devanagari-fonts,m17n-contrib-hindi,m17n-db-hindi | Red_Hat_Enterprise_Linux-Release_Notes-6-hi-IN,iok,samyak-devanagari-fonts | eclipse-nls-hi,hunspell-hi,hyphen-hi,ibus-m17n,kde-i18n-Hindi,kde-l10n-Hindi,libreoffice-langpack-hi
+hungarian-support| |  | autocorr-hu,eclipse-nls-hu,hunspell-hu,hyphen-hu,kde-i18n-Hungarian,kde-l10n-Hungarian,libreoffice-langpack-hu
+icelandic-support| |  | hunspell-is,hyphen-is,kde-i18n-Icelandic,kde-l10n-Icelandic
+identity-management-server| | 389-ds-base,ipa-admintools,ipa-pki-ca-theme,ipa-pki-common-theme,ipa-server,mod_revocator,pki-ca,pki-silent | nuxwdog,slapi-nis
+indonesian-support| |  | eclipse-nls-id,hunspell-id,hyphen-id
+infiniband|libibcm,libibverbs,libibverbs-utils,librdmacm,librdmacm-utils,rdma | dapl,ibacm,ibsim,ibutils,libcxgb3,libehca,libibmad,libibumad,libipathverbs,libmlx4,libmlx5,libmthca,libnes,libocrdma,rds-tools | compat-dapl,glusterfs-rdma,infiniband-diags,libibcommon,libiwpm,mstflint,opensm,perftest,qperf,srptools
+input-methods|ibus-gtk | ibus-anthy,ibus-chewing,ibus-hangul,ibus-m17n,ibus-pinyin,ibus-rawcode,ibus-sayura,ibus-table-additional,m17n-contrib-assamese,m17n-contrib-bengali,m17n-contrib-gujarati,m17n-contrib-hindi,m17n-contrib-kannada,m17n-contrib-maithili,m17n-contrib-malayalam,m17n-contrib-marathi,m17n-contrib-oriya,m17n-contrib-punjabi,m17n-contrib-tamil,m17n-contrib-telugu,m17n-contrib-urdu,m17n-db-sinhala,m17n-db-thai | gtk2-immodule-xim,ibus-qt
+interlingua-support| |  | hunspell-ia,hyphen-ia
+internet-browser| | firefox,nspluginwrapper,totem-mozplugin | 
+inuktitut-support|dejavu-sans-fonts |  | 
+irish-support| |  | hunspell-ga,hyphen-ga,kde-l10n-Irish,libreoffice-langpack-ga,mythes-ga
+italian-support| | Red_Hat_Enterprise_Linux-Release_Notes-6-it-IT | autocorr-it,eclipse-nls-it,hunspell-it,hyphen-it,kde-i18n-Italian,kde-l10n-Italian,libreoffice-langpack-it,man-pages-it,mythes-it
+japanese-support| | Red_Hat_Enterprise_Linux-Release_Notes-6-ja-JP,ipa-gothic-fonts,ipa-mincho-fonts,ipa-pgothic-fonts,ipa-pmincho-fonts,vlgothic-fonts,vlgothic-p-fonts | autocorr-ja,eclipse-nls-ja,ibus-anthy,kde-i18n-Japanese,kde-l10n-Japanese,libreoffice-langpack-ja,man-pages-ja,poppler-data
+java-platform|java-1.6.0-openjdk,java-1.7.0-openjdk |  | icedtea-web,java-1.8.0-openjdk
+kannada-support|lohit-kannada-fonts,m17n-contrib-kannada,m17n-db-kannada | Red_Hat_Enterprise_Linux-Release_Notes-6-kn-IN,iok | hunspell-kn,hyphen-kn,ibus-m17n,kde-l10n-Kannada,libreoffice-langpack-kn
+kashmiri-support|lohit-devanagari-fonts,m17n-contrib-kashmiri | iok | ibus-m17n
+kashubian-support| |  | hunspell-csb,kde-l10n-Kashubian
+kazakh-support| |  | hunspell-kk,kde-l10n-Kazakh
+kde-desktop|alsa-plugins-pulseaudio,kde-settings-pulseaudio,kdeaccessibility,kdeartwork-screensavers,kdebase,kdebase-workspace,kdelibs,xsettings-kde | NetworkManager-gnome,k3b,kcoloredit,kdeadmin,kdegames,kdegraphics,kdemultimedia,kdenetwork,kdepim,kdepim-runtime,kdeplasma-addons,kdeutils,kdm,kiconedit,kipi-plugins,kmid,konq-plugins,ksig,ksshaskpass,pinentry-qt,rhn-setup-gnome,subscription-manager-gui | kdebase-workspace-akonadi,kdebase-workspace-python-applet,ibus-qt
+khmer-support|khmeros-base-fonts | khmeros-battambang-fonts,khmeros-bokor-fonts,khmeros-handwritten-fonts,khmeros-metal-chrieng-fonts,khmeros-muol-fonts,khmeros-siemreap-fonts | hunspell-km,kde-l10n-Khmer
+kinyarwanda-support| |  | hunspell-rw
+konkani-support|lohit-devanagari-fonts | iok | ibus-m17n
+korean-support| | Red_Hat_Enterprise_Linux-Release_Notes-6-ko-KR,un-core-batang-fonts,un-core-dinaru-fonts,un-core-dotum-fonts,un-core-graphic-fonts,un-core-gungseo-fonts,un-core-pilgi-fonts | autocorr-ko,eclipse-nls-ko,hunspell-ko,ibus-hangul,kde-i18n-Korean,kde-l10n-Korean,libreoffice-langpack-ko,man-pages-ko,poppler-data
+kurdish-support| | kurdit-unikurd-web-fonts | eclipse-nls-ku,hunspell-ku,kde-l10n-Kurdish
+lao-support|dejavu-sans-fonts |  | 
+large-systems|numactl,numad | hwloc,libcgroup,libhugetlbfs,libhugetlbfs-utils,libtopology | ksm_preload,numatop,tuna
+latin-support| |  | hunspell-la
+latvian-support| |  | hunspell-lv,hyphen-lv,kde-l10n-Latvian,mythes-lv
+legacy-unix| | xinetd | authd,cups-lpd,dump,finger,finger-server,krb5-appl-servers,ksh,mksh,ncompress,rsh,rsh-server,rusers,rusers-server,rwho,talk,talk-server,tcp_wrappers,telnet,telnet-server,tftp
+legacy-x| | xorg-x11-fonts-100dpi,xorg-x11-fonts-ISO8859-1-100dpi,xorg-x11-fonts-Type1,xorg-x11-fonts-misc | libXmu,libXp,openmotif,openmotif22,xorg-x11-fonts-75dpi,xorg-x11-fonts-ISO8859-1-75dpi,xorg-x11-fonts-ISO8859-14-100dpi,xorg-x11-fonts-ISO8859-14-75dpi,xorg-x11-fonts-ISO8859-15-75dpi,xorg-x11-fonts-ISO8859-2-100dpi,xorg-x11-fonts-ISO8859-2-75dpi,xorg-x11-fonts-ISO8859-9-100dpi,xorg-x11-fonts-ISO8859-9-75dpi,xorg-x11-fonts-cyrillic,xorg-x11-fonts-ethiopic,xorg-x11-twm,xorg-x11-xdm,xterm
+lithuanian-support| |  | hunspell-lt,hyphen-lt,kde-i18n-Lithuanian,kde-l10n-Lithuanian,libreoffice-langpack-lt
+low-saxon-support| |  | hunspell-nds,kde-l10n-LowSaxon
+luxembourgish-support| |  | autocorr-lb
+macedonian-support| |  | hunspell-mk,kde-l10n-Macedonian
+mail-server| | dovecot,postfix,spamassassin | cyrus-imapd,cyrus-imapd-perl,dovecot-mysql,dovecot-pgsql,dovecot-pigeonhole,mailman,sendmail,sendmail-cf
+mainframe-access| | tn5250,x3270-x11 | x3270-text
+maithili-support|lohit-devanagari-fonts,m17n-contrib-maithili | iok | hunspell-mai,ibus-m17n,kde-l10n-Maithili,libreoffice-langpack-mai
+malagasy-support| |  | hunspell-mg
+malay-support| |  | hunspell-ms,libreoffice-langpack-ms
+malayalam-support|m17n-contrib-malayalam,m17n-db-malayalam | Red_Hat_Enterprise_Linux-Release_Notes-6-ml-IN,iok,lohit-malayalam-fonts,samyak-malayalam-fonts,smc-anjalioldlipi-fonts,smc-dyuthi-fonts,smc-kalyani-fonts,smc-meera-fonts,smc-rachana-fonts,smc-raghumalayalam-fonts,smc-suruma-fonts | hunspell-ml,hyphen-ml,ibus-m17n,kde-l10n-Malayalam,libreoffice-langpack-ml
+maltese-support| |  | hunspell-mt
+manx-support| |  | hunspell-gv
+maori-support| |  | hunspell-mi,hyphen-mi,mythes-mi
+marathi-support|lohit-devanagari-fonts,m17n-contrib-marathi | Red_Hat_Enterprise_Linux-Release_Notes-6-mr-IN,iok,samyak-devanagari-fonts | hunspell-mr,hyphen-mr,ibus-m17n,kde-l10n-Marathi,libreoffice-langpack-mr
+mongolian-support| |  | autocorr-mn,eclipse-nls-mn,hunspell-mn,hyphen-mn
+mysql|mysql-server |  | mysql-bench,mysql-test
+mysql-client|mysql | MySQL-python,mysql-connector-odbc | libdbi-dbd-mysql,mysql-connector-java,perl-DBD-MySQL
+nepali-support|lohit-devanagari-fonts,m17n-contrib-nepali,madan-fonts |  | hunspell-ne,ibus-m17n
+network-file-system-client| | autofs,cifs-utils,nfs-utils,nfs4-acl-tools,samba-client | cachefilesd,glusterfs-fuse
+network-server| |  | bind,bind-chroot,bind-dyndb-ldap,dhcp,dnsmasq,freeradius,quagga,radvd,rsyslog-gnutls,rsyslog-gssapi,rsyslog-mysql,rsyslog-pgsql,rsyslog-relp,syslinux,tftp-server,unbound
+network-tools|tcpdump | libreswan,nc | NetworkManager-libreswan,NetworkManager-openswan,arptables_jf,arpwatch,dropwatch,ebtables,ipset,iptraf,iptstate,lksctp-tools,mipv6-daemon,mrtg,netlabel_tools,nmap,stunnel,wireshark
+nfs-file-server|nfs-utils,nfs4-acl-tools |  | 
+northern-sotho-support| |  | hunspell-nso,libreoffice-langpack-nso
+norwegian-support| |  | eclipse-nls-no,hunspell-nb,hunspell-nn,hyphen-nb,hyphen-nn,kde-i18n-Norwegian,kde-i18n-Norwegian-Nynorsk,kde-l10n-Norwegian,kde-l10n-Norwegian-Nynorsk,libreoffice-langpack-nb,libreoffice-langpack-nn,mythes-nb,mythes-nn
+occitan-support| |  | hunspell-oc
+oriya-support|lohit-oriya-fonts,m17n-contrib-oriya,m17n-db-oriya | Red_Hat_Enterprise_Linux-Release_Notes-6-or-IN,iok,samyak-oriya-fonts | hunspell-or,hyphen-or,ibus-m17n,libreoffice-langpack-or
+performance|blktrace,sysstat | dstat,iotop,latencytop,latencytop-tui,oprofile,perf,powertop,seekwatcher | oprofile-jit,papi,sdparm,sg3_utils,tuned,tuned-utils
+perl-runtime|perl | perl-Crypt-SSLeay,perl-XML-Dumper,perl-XML-Grove,perl-XML-Twig,perl-core | perl-DBD-SQLite,perl-Date-Calc,perl-Date-Manip,perl-Frontier-RPC,perl-LDAP,perl-Mozilla-LDAP,perl-suidperl
+persian-support| |  | autocorr-fa,eclipse-nls-fa,hunspell-fa,hyphen-fa
+php|php | php-gd,php-pdo,php-pear,php-xml | php-ldap,php-mysql,php-odbc,php-pecl-apc,php-pecl-memcache,php-pgsql,php-soap,php-xmlrpc
+polish-support| |  | autocorr-pl,eclipse-nls-pl,hunspell-pl,hyphen-pl,kde-i18n-Polish,kde-l10n-Polish,libreoffice-langpack-pl,man-pages-pl,mythes-pl
+portuguese-support| |  | autocorr-pt,eclipse-nls-pt,hunspell-pt,hyphen-pt,kde-i18n-Portuguese,kde-l10n-Portuguese,libreoffice-langpack-pt-PT,mythes-pt
+postgresql|postgresql-server | postgresql-docs | postgresql-contrib,postgresql-plperl,postgresql-plpython,postgresql-pltcl,postgresql-test,rhdb-utils
+postgresql-client|postgresql | PyGreSQL,postgresql-odbc,python-psycopg2 | libdbi-dbd-pgsql,perl-DBD-Pg,postgresql-jdbc,tcl-pgtcl
+print-client|cups,cups-pk-helper,enscript,printer-filters | foomatic,foomatic-db-ppds,gutenprint,gutenprint-cups,hpijs,paps,system-config-printer,system-config-printer-udev | hplip,hplip-gui
+print-server|cups,printer-filters | foomatic-db-ppds,gutenprint,gutenprint-cups,hpijs,paps | 
+punjabi-support|lohit-punjabi-fonts,m17n-contrib-punjabi,m17n-db-punjabi | Red_Hat_Enterprise_Linux-Release_Notes-6-pa-IN,iok,saab-fonts | hunspell-pa,hyphen-pa,ibus-m17n,kde-i18n-Punjabi,kde-l10n-Punjabi,libreoffice-langpack-pa
+remote-desktop-clients| |  | freerdp,rdesktop,spice-client,spice-xpi,tigervnc,tsclient,vinagre
+romanian-support| |  | terminus-fonts,eclipse-nls-ro,hunspell-ro,hyphen-ro,kde-i18n-Romanian,kde-l10n-Romanian,libreoffice-langpack-ro,mythes-ro
+ruby-runtime|ruby |  | libyaml,ruby-irb,rubygems
+russian-support| | Red_Hat_Enterprise_Linux-Release_Notes-6-ru-RU | autocorr-ru,eclipse-nls-ru,hunspell-ru,hyphen-ru,kde-i18n-Russian,kde-l10n-Russian,libreoffice-langpack-ru,man-pages-ru,mythes-ru
+sanskrit-support|m17n-db-sanskrit |  | hyphen-sa,ibus-m17n
+sardinian-support| |  | hunspell-sc
+scientific| | gnuplot,units | atlas,compat-openmpi,compat-openmpi-psm,fftw,fftw-devel,fftw-static,gsl,gsl-devel,gsl-static,lapack,mpich,mpitests-mvapich,mpitests-mvapich2,mpitests-openmpi,mvapich,mvapich-psm-devel,mvapich-psm-static,mvapich2,mvapich2-psm-devel,numpy,openmpi,openmpi-1.10,openmpi-1.10-devel,openmpi-1.4,openmpi-1.4-devel,openmpi-1.4-psm,openmpi-1.4-psm-devel,openmpi-1.5.3-devel,openmpi-1.5.3-psm-devel,openmpi-1.5.4,openmpi-1.5.4-devel,openmpi-1.8,openmpi-1.8-devel,openmpi-devel,openmpi-psm-devel,scipy
+security-tools| | scap-security-guide | aide,amtu,hmaccalc,openscap,openscap-utils,p11-kit-trust,scap-workbench,tpm-tools,trousers
+serbian-support| |  | eclipse-nls-sr,hunspell-sr,kde-i18n-Serbian,kde-l10n-Serbian,libreoffice-langpack-sr
+server-platform|db4,dbus-libs,glibc,krb5-libs,libgcc,libstdc++,ncurses-libs,nss,openldap,openssl,pam,redhat-lsb,zlib |  | libatomic,libcilkrts,libitm,libmpx
+server-platform-devel|db4-devel,dbus-devel,glibc-devel,krb5-devel,libstdc++-devel,libvirt-devel,libvirt-java-devel,ncurses-devel,nss-devel,openldap-devel,openssl-devel,pam-devel,zlib-devel |  | 
+server-policy| |  | gdm-policy-server
+sindhi-support|lohit-devanagari-fonts,m17n-contrib-sindhi | Red_Hat_Enterprise_Linux-Release_Notes-6-pa-IN,iok | ibus-m17n
+sinhala-support|lklug-fonts,m17n-contrib-sinhala,m17n-db-sinhala |  | hunspell-si,ibus-m17n,ibus-sayura
+slovak-support| |  | autocorr-sk,eclipse-nls-sk,hunspell-sk,hyphen-sk,kde-i18n-Slovak,kde-l10n-Slovak,libreoffice-langpack-sk,mythes-sk
+slovenian-support| |  | autocorr-sl,eclipse-nls-sl,hunspell-sl,hyphen-sl,kde-i18n-Slovenian,kde-l10n-Slovenian,libreoffice-langpack-sl,mythes-sl
+smart-card| | ccid,coolkey,esc,gdm-plugin-smartcard,pam_pkcs11 | opencryptoki
+somali-support| |  | hunspell-so
+southern-ndebele-support| |  | hunspell-nr,libreoffice-langpack-nr
+southern-sotho-support| |  | hunspell-st,libreoffice-langpack-st
+spanish-support| | Red_Hat_Enterprise_Linux-Release_Notes-6-es-ES | autocorr-es,eclipse-nls-es,hunspell-es,hyphen-es,kde-i18n-Spanish,kde-l10n-Spanish,libreoffice-langpack-es,man-pages-es,man-pages-es-extra,mythes-es
+storage-client-fcoe|fcoe-utils | cgdcbxd,fcoe-target-utils,lldpad | 
+storage-client-iscsi|iscsi-initiator-utils |  | 
+storage-client-multipath|device-mapper-multipath |  | 
+storage-server| | scsi-target-utils | isns-utils
+swahili-support| |  | hunspell-sw
+swati-support| |  | hunspell-ss,libreoffice-langpack-ss
+swedish-support| |  | autocorr-sv,eclipse-nls-sv,hunspell-sv,hyphen-sv,kde-i18n-Swedish,kde-l10n-Swedish,libreoffice-langpack-sv,mythes-sv
+system-admin-tools| |  | conman,crypto-utils,dtach,expect,hardlink,lshw,lsscsi,mc,mgetty,pexpect,rdist,rear,rrdtool,screen,scrub,symlinks,tree,vlock,xdelta
+system-management| |  | OpenIPMI,fence-agents,freeipmi,freeipmi-bmc-watchdog,freeipmi-ipmidetectd,ipmitool,openhpi,openhpi-subagent,watchdog
+system-management-messaging-client|qpid-cpp-client | python-qpid,python-qpid-qmf,qpid-qmf,qpid-tools | python-saslwrapper,qpid-tests,ruby-qpid-qmf
+system-management-snmp|net-snmp | net-snmp-utils | net-snmp-perl,net-snmp-python
+system-management-wbem| | openwsman-client,sblim-sfcb,sblim-wbemcli,wsmancli | openwsman-server,sblim-cim-client,sblim-cim-client2,sblim-cmpi-dhcp,sblim-cmpi-dns,sblim-cmpi-fsvol,sblim-cmpi-network,sblim-cmpi-nfsv3,sblim-cmpi-nfsv4,sblim-cmpi-params,sblim-cmpi-samba,sblim-cmpi-sysfs,sblim-cmpi-syslog,sblim-gather,sblim-gather-provider,sblim-indication_helper,sblim-smis-hba,sblim-tools-libra,tog-pegasus
+tagalog-support| |  | hunspell-tl
+tajik-support|dejavu-sans-fonts | dejavu-sans-mono-fonts,dejavu-serif-fonts | kde-l10n-Tajik
+tamil-support|lohit-tamil-fonts,m17n-contrib-tamil,m17n-db-tamil | Red_Hat_Enterprise_Linux-Release_Notes-6-ta-IN,iok,samyak-tamil-fonts | hunspell-ta,hyphen-ta,ibus-m17n,kde-i18n-Tamil,libreoffice-langpack-ta
+technical-writing|docbook-slides,docbook-style-xsl,docbook-utils,docbook5-schemas,docbook5-style-xsl | xmlto | docbook-utils-pdf,texinfo,xmlto-tex,xmltoman
+telugu-support|lohit-telugu-fonts,m17n-contrib-telugu,m17n-db-telugu | Red_Hat_Enterprise_Linux-Release_Notes-6-te-IN,iok,pothana2000-fonts,vemana2000-fonts | hunspell-te,hyphen-te,ibus-m17n,libreoffice-langpack-te
+tetum-support| |  | hunspell-tet
+tex|tex-cm-lgc,texlive,texlive-latex |  | 
+thai-support|m17n-db-thai | thai-scalable-garuda-fonts,thai-scalable-kinnari-fonts,thai-scalable-loma-fonts,thai-scalable-norasi-fonts,thai-scalable-purisa-fonts,thai-scalable-sawasdee-fonts,thai-scalable-tlwgmono-fonts,thai-scalable-tlwgtypewriter-fonts,thai-scalable-tlwgtypist-fonts,thai-scalable-tlwgtypo-fonts,thai-scalable-umpush-fonts,thai-scalable-waree-fonts | hunspell-th,ibus-m17n,kde-l10n-Thai,libreoffice-langpack-th,poppler-data
+tibetan-support|m17n-db-tibetan,tibetan-machine-uni-fonts | jomolhari-fonts | ibus-m17n
+tsonga-support| |  | hunspell-ts,libreoffice-langpack-ts
+tswana-support| |  | hunspell-tn,libreoffice-langpack-tn
+turbogears|TurboGears2 |  | 
+turkish-support| |  | autocorr-tr,eclipse-nls-tr,kde-i18n-Turkish,kde-l10n-Turkish,libreoffice-langpack-tr
+turkmen-support| |  | hunspell-tk
+ukrainian-support| |  | eclipse-nls-uk,hunspell-uk,hyphen-uk,kde-i18n-Ukrainian,kde-l10n-Ukrainian,libreoffice-langpack-uk,man-pages-uk,mythes-uk
+upper-sorbian-support| |  | hunspell-hsb,hyphen-hsb
+urdu-support|m17n-contrib-urdu,paktype-naqsh-fonts,paktype-tehreer-fonts | dejavu-sans-fonts,dejavu-sans-mono-fonts,nafees-web-naskh-fonts | hunspell-ur,ibus-m17n,libreoffice-langpack-ur
+uzbek-support| |  | hunspell-uz
+venda-support|dejavu-sans-fonts,dejavu-sans-mono-fonts,dejavu-serif-fonts |  | hunspell-ve,libreoffice-langpack-ve
+vietnamese-support| |  | autocorr-vi,hunspell-vi
+virtualization|qemu-kvm |  | qemu-kvm-tools,vios-proxy
+virtualization-client|python-virtinst,virt-manager,virt-viewer | virt-top | 
+virtualization-platform|libvirt,libvirt-client,virt-who |  | fence-virtd-libvirt,fence-virtd-multicast,fence-virtd-serial,libvirt-cim,libvirt-java,libvirt-qmf,libvirt-snmp,perl-Sys-Virt
+virtualization-tools| | libguestfs | libguestfs-bash-completion,libguestfs-gfs2,libguestfs-java,libguestfs-mount,libguestfs-rescue,libguestfs-rsync,libguestfs-tools,libguestfs-xfs,virt-v2v
+walloon-support| |  | hunspell-wa,kde-l10n-Walloon
+web-server|httpd | crypto-utils,httpd-manual,mod_perl,mod_ssl,mod_wsgi,webalizer | certmonger,libmemcached,memcached,mod_auth_kerb,mod_auth_mellon,mod_auth_mysql,mod_auth_pgsql,mod_authnz_pam,mod_authz_ldap,mod_intercept_form_submit,mod_lookup_identity,mod_nss,mod_revocator,perl-CGI,perl-CGI-Session,perl-Cache-Memcached,python-memcached,squid
+web-servlet|tomcat6 |  | 
+welsh-support| |  | hunspell-cy,libreoffice-langpack-cy
+x11|xorg-x11-drivers,xorg-x11-server-Xorg,xorg-x11-xauth,xorg-x11-xinit | firstboot,glx-utils,hal,plymouth-system-theme,spice-vdagent,subscription-manager-firstboot,wacomexpresskeys,wdaemon,xorg-x11-server-utils,xorg-x11-utils,xvattr | xcb-util-image,xcb-util-keysyms,xcb-util-wm
+xhosa-support| |  | hunspell-xh,libreoffice-langpack-xh
+zulu-support| |  | hunspell-zu,hyphen-zu,libreoffice-langpack-zu
